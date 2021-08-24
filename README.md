@@ -1,4 +1,4 @@
 # Kvast
-Static desktop page. HTML Academy project
+Static landing. HTML Academy project
 
 Preview: https://tatiananfrank.github.io/Kvast/
